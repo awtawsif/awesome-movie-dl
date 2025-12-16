@@ -14,7 +14,7 @@ This is a command-line tool that allows you to search for and download movies fr
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/awesome-movie-dl.git
+    git clone https://github.com/awtawsif/awesome-movie-dl.git
     cd awesome-movie-dl
     ```
 
