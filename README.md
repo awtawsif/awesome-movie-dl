@@ -21,7 +21,8 @@ This is a command-line tool that allows you to search for and download movies fr
 2.  **Install the required packages:**
 
     ```bash
-    pip install -r requirements.txt
+    pip install uv
+    uv sync
     ```
 
 ## Usage
@@ -29,7 +30,7 @@ This is a command-line tool that allows you to search for and download movies fr
 To start the tool, run the following command:
 
 ```bash
-python main.py
+uv run main.py
 ```
 
 You will be prompted to enter a search term. The tool will then scrape the website for download links related to your search and display them in a table.
